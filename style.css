@@ -1,0 +1,42 @@
+body {
+	background-image: url("img/background2.jpg");
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 1.2rem;   	    
+}
+
+
+.container-fluid{
+    
+}
+.row{
+	margin-top: 50px;
+}
+.list-item{
+	color: white;
+	
+}
+
+.action{
+	text-align: center;
+}
+.update-page{
+    margin-top: 100px;
+}
+.update-btn{
+    text-align: center;
+    margin-top: 15px;
+}
+.pagination{
+
+    margin-left: 48%;
+}
+.page-no{
+    color: white;
+    text-align: center;
+    padding-left: 5px;
+}
